@@ -4,11 +4,11 @@
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",
-    "axios": "^1.7.7",
-    "bootstrap": "^5.3.3",
+    "axios": "^1.11.0",
+    "bootstrap": "^5.3.8",
     "classnames": "^2.5.1",
     "country-calling-code": "^0.0.3",
-    "html-react-parser": "^5.1.18",
+    "html-react-parser": "^5.2.6",
     "i18next": "^23.16.5",
     "i18next-http-backend": "^2.6.2",
     "lodash": "^4.17.21",
@@ -24,9 +24,9 @@
     "react-scripts": "5.0.1",
     "react-select": "^5.8.3",
     "react-toastify": "^10.0.6",
-    "sass": "^1.81.0",
+    "sass": "^1.91.0",
     "socket.io-client": "^4.8.1",
-    "web-vitals": "^4.2.4"
+    "web-vitals": "^5.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
