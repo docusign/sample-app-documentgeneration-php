@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 node:18-alpine AS development
+FROM --platform=linux/amd64 node:26.12.1-alpine AS development
 
 ARG REACT_APP_API_BASE_URL
 
